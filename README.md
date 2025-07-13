@@ -2,7 +2,7 @@
 
 <img width="395" height="195" alt="Library_01 png" src="https://github.com/user-attachments/assets/43f5cabd-9f9a-49dd-99f2-7cc332767f60"/>
 
-# Project Idea: "Library Management System"
+# Project: "Library Management System"
 This will be a Library Management System (LMS) where users can:
 - Add new books.
 - View a list of books.
@@ -13,7 +13,7 @@ This will be a Library Management System (LMS) where users can:
 
 <br/>
 
-# Features of this Project:
+# Features:
 - *Add Book*: Users can add a new book with details like title, author, ISBN, genre, and availability.
 - *Display Books*: Display all the books with their details.
 - *Search Books*: Search by title or author.
