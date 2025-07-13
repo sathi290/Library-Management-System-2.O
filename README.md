@@ -42,5 +42,20 @@ java Main
 <br/>
 
 # Project Structure
-- ```bash Book.java```: Book data model (ID, Title, Author, Status)
-- 
+- ```Book.java```: Book data model (ID, Title, Author, Status)
+- ```Library.java```: Core library operations(add, display, borrow, return, delete)
+- ```Main.java```: Program entry point
+
+<br/>
+
+# Usage Guide
+1. Launch the program: ```java Main```
+2. Follow the on - screen menu:
+<img width="233" height="191" alt="Library_05 png" src="https://github.com/user-attachments/assets/f5c96d84-64f7-497c-94fd-ed179de90df3" />
+3. Enter the choice number and supply any requested details (book ID, title, etc.)
+4. Exit the application from the menu when done.
+
+<br/>
+
+
+
